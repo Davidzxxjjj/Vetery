@@ -1,0 +1,1 @@
+web: gunicorn DevVete.wsgi --log-file - 
